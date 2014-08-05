@@ -26,4 +26,9 @@ tags: []
 
 这里是引用的[链接](http://huangyifeng.github.com)
 
+- list item1
+- list item2
+- list item3
+
+
 先记录这些，之后遇到有用的再陆续补充。
