@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 首页
+<!-- tagline: Supporting tagline -->
 ---
 {% include JB/setup %}
-Here's a "posts list".
+Post列表
 
 <ul class="posts">
   {% for post in site.posts %}
