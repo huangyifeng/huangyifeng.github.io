@@ -61,6 +61,20 @@ tags: []
 
 ![3年Z组银八先生](\assets\test.png)
 
+#####常用命令
+
+- 创建Post
+
+	rake post title="Hello World"
+
+- 运行预览服务器
+
+	jekyll serve
+
+	A development server will run at http://localhost:4000/
+
+	官网上的jekyll --serve 已经不能用了。
+
 
 
 
